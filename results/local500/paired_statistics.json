@@ -1,0 +1,35 @@
+{
+  "greedy": {
+    "delta_vs_greedy_pp": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "improved": 0,
+    "unchanged": 500,
+    "worsened": 0,
+    "bootstrap": "3000 image-cluster paired resamples; seed 42"
+  },
+  "beam3": {
+    "delta_vs_greedy_pp": -0.76,
+    "ci95": [
+      -1.653225806451613,
+      0.07984431137724553
+    ],
+    "improved": 5,
+    "unchanged": 482,
+    "worsened": 13,
+    "bootstrap": "3000 image-cluster paired resamples; seed 42"
+  },
+  "blank_image": {
+    "delta_vs_greedy_pp": -38.2,
+    "ci95": [
+      -42.384911256776505,
+      -33.9874749498998
+    ],
+    "improved": 20,
+    "unchanged": 239,
+    "worsened": 241,
+    "bootstrap": "3000 image-cluster paired resamples; seed 42"
+  }
+}

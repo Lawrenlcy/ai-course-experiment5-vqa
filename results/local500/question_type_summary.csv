@@ -1,0 +1,178 @@
+method,question_type,mean,count
+beam3,are,100.0,7
+beam3,are the,96.66666666666667,12
+beam3,are there,93.63636363636364,11
+beam3,are there any,100.0,5
+beam3,are these,94.28571428571429,7
+beam3,are they,100.0,5
+beam3,can you,100.0,2
+beam3,do,98.33333333333333,6
+beam3,do you,90.0,4
+beam3,does the,100.0,12
+beam3,does this,100.0,3
+beam3,has,100.0,2
+beam3,how,53.333333333333336,6
+beam3,how many,73.18181818181819,44
+beam3,how many people are,100.0,1
+beam3,how many people are in,33.333333333333336,3
+beam3,is,100.0,7
+beam3,is he,100.0,1
+beam3,is it,100.0,8
+beam3,is that a,100.0,1
+beam3,is the,99.0,50
+beam3,is the man,83.33333333333333,6
+beam3,is the person,50.0,2
+beam3,is there,100.0,10
+beam3,is there a,95.78947368421052,19
+beam3,is this,100.0,13
+beam3,is this a,100.0,15
+beam3,is this an,100.0,1
+beam3,is this person,100.0,4
+beam3,none of the above,84.82758620689656,29
+beam3,was,100.0,1
+beam3,what,74.72222222222223,36
+beam3,what are,86.66666666666667,3
+beam3,what are the,87.5,12
+beam3,what brand,100.0,1
+beam3,what color,50.0,2
+beam3,what color are the,88.33333333333333,6
+beam3,what color is,100.0,2
+beam3,what color is the,89.04761904761905,21
+beam3,what does the,90.0,4
+beam3,what is,60.0,15
+beam3,what is in the,66.66666666666667,3
+beam3,what is on the,50.0,2
+beam3,what is the,84.34782608695652,23
+beam3,what is the color of the,30.0,1
+beam3,what is the man,100.0,9
+beam3,what is the name,20.0,3
+beam3,what is the person,95.0,2
+beam3,what is the woman,100.0,3
+beam3,what is this,66.66666666666667,3
+beam3,what kind of,68.46153846153847,13
+beam3,what sport is,100.0,2
+beam3,what time,65.0,6
+beam3,what type of,84.16666666666667,12
+beam3,where are the,40.0,3
+beam3,where is the,12.0,5
+beam3,which,75.0,4
+beam3,who is,100.0,2
+beam3,why,56.0,5
+blank_image,are,85.71428571428571,7
+blank_image,are the,60.833333333333336,12
+blank_image,are there,90.9090909090909,11
+blank_image,are there any,64.0,5
+blank_image,are these,75.71428571428571,7
+blank_image,are they,20.0,5
+blank_image,can you,65.0,2
+blank_image,do,81.66666666666667,6
+blank_image,do you,75.0,4
+blank_image,does the,83.33333333333333,12
+blank_image,does this,33.333333333333336,3
+blank_image,has,75.0,2
+blank_image,how,43.333333333333336,6
+blank_image,how many,35.90909090909091,44
+blank_image,how many people are,0.0,1
+blank_image,how many people are in,0.0,3
+blank_image,is,70.0,7
+blank_image,is he,0.0,1
+blank_image,is it,50.0,8
+blank_image,is that a,0.0,1
+blank_image,is the,77.0,50
+blank_image,is the man,83.33333333333333,6
+blank_image,is the person,50.0,2
+blank_image,is there,63.0,10
+blank_image,is there a,58.421052631578945,19
+blank_image,is this,55.38461538461539,13
+blank_image,is this a,42.666666666666664,15
+blank_image,is this an,100.0,1
+blank_image,is this person,75.0,4
+blank_image,none of the above,46.206896551724135,29
+blank_image,was,60.0,1
+blank_image,what,44.72222222222222,36
+blank_image,what are,0.0,3
+blank_image,what are the,25.833333333333332,12
+blank_image,what brand,100.0,1
+blank_image,what color,50.0,2
+blank_image,what color are the,0.0,6
+blank_image,what color is,0.0,2
+blank_image,what color is the,54.285714285714285,21
+blank_image,what does the,0.0,4
+blank_image,what is,18.666666666666668,15
+blank_image,what is in the,33.333333333333336,3
+blank_image,what is on the,0.0,2
+blank_image,what is the,37.82608695652174,23
+blank_image,what is the color of the,30.0,1
+blank_image,what is the man,32.22222222222222,9
+blank_image,what is the name,0.0,3
+blank_image,what is the person,45.0,2
+blank_image,what is the woman,33.333333333333336,3
+blank_image,what is this,33.333333333333336,3
+blank_image,what kind of,24.615384615384617,13
+blank_image,what sport is,0.0,2
+blank_image,what time,21.666666666666668,6
+blank_image,what type of,35.833333333333336,12
+blank_image,where are the,40.0,3
+blank_image,where is the,0.0,5
+blank_image,which,25.0,4
+blank_image,who is,0.0,2
+blank_image,why,6.0,5
+greedy,are,100.0,7
+greedy,are the,96.66666666666667,12
+greedy,are there,100.0,11
+greedy,are there any,100.0,5
+greedy,are these,100.0,7
+greedy,are they,100.0,5
+greedy,can you,100.0,2
+greedy,do,98.33333333333333,6
+greedy,do you,90.0,4
+greedy,does the,100.0,12
+greedy,does this,100.0,3
+greedy,has,100.0,2
+greedy,how,53.333333333333336,6
+greedy,how many,73.18181818181819,44
+greedy,how many people are,100.0,1
+greedy,how many people are in,33.333333333333336,3
+greedy,is,100.0,7
+greedy,is he,100.0,1
+greedy,is it,100.0,8
+greedy,is that a,100.0,1
+greedy,is the,99.0,50
+greedy,is the man,83.33333333333333,6
+greedy,is the person,50.0,2
+greedy,is there,100.0,10
+greedy,is there a,95.78947368421052,19
+greedy,is this,100.0,13
+greedy,is this a,100.0,15
+greedy,is this an,100.0,1
+greedy,is this person,100.0,4
+greedy,none of the above,84.82758620689656,29
+greedy,was,100.0,1
+greedy,what,75.55555555555556,36
+greedy,what are,86.66666666666667,3
+greedy,what are the,87.5,12
+greedy,what brand,100.0,1
+greedy,what color,100.0,2
+greedy,what color are the,100.0,6
+greedy,what color is,100.0,2
+greedy,what color is the,89.52380952380952,21
+greedy,what does the,90.0,4
+greedy,what is,64.66666666666667,15
+greedy,what is in the,66.66666666666667,3
+greedy,what is on the,50.0,2
+greedy,what is the,85.21739130434783,23
+greedy,what is the color of the,30.0,1
+greedy,what is the man,100.0,9
+greedy,what is the name,20.0,3
+greedy,what is the person,95.0,2
+greedy,what is the woman,100.0,3
+greedy,what is this,66.66666666666667,3
+greedy,what kind of,68.46153846153847,13
+greedy,what sport is,100.0,2
+greedy,what time,65.0,6
+greedy,what type of,84.16666666666667,12
+greedy,where are the,50.0,3
+greedy,where is the,24.0,5
+greedy,which,75.0,4
+greedy,who is,100.0,2
+greedy,why,32.0,5

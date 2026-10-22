@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+models/
+downloads/
+*.part
+*.log
+private/
+dist/
+.env
+results/*/audio/
+results/*/references/
+results/*/mos/audio/
+results/*/mos/ratings*

@@ -1,0 +1,7 @@
+question_id,image_id,question,answer,answer_type,question_type,generation_seconds_per_question,e2e_seconds_per_question,batch_n,method,score,references,majority
+1903001,1903,What is in the lid?,lid,other,what is in the,0.01241316250525415,0.025644824956543744,8,greedy,0.0,"{""nothing"": 8, ""hot dog"": 1, ""sandwich"": 1}",nothing
+34950010,34950,What color is the train?,red and blue,other,what color is the,0.014967962517403066,0.028132812469266355,8,greedy,0.0,"{""red, yellow, orange and blue"": 1, ""red"": 1, ""blue, yellow, red"": 1, ""orange, yellow, red, blue"": 1, ""yellow and red"": 1, ""orange,blue"": 1, ""red blue orange yellow"": 1, ""red, yellow, blue"": 1, ""red,yellow,blue,orange"": 1, ""red,blue, yellow, orange"": 1}","red, yellow, orange and blue"
+50125003,50125,How many tires are visible?,10,number,how many,0.021399899967946112,0.03350272495299578,8,greedy,0.0,"{""7"": 3, ""9"": 3, ""8"": 2, ""3"": 1, ""6"": 1}",7
+71724004,71724,How many people are in the boat?,2,number,how many people are in,0.012502875062637031,0.024953737505711615,8,greedy,0.0,"{""3"": 10}",3
+323951000,323951,Does he have a hat on?,yes,yes/no,none of the above,0.013013212475925684,0.025350737501867115,8,greedy,0.0,"{""no"": 10}",no
+483165001,483165,Is the man wearing a helmet?,yes,yes/no,is the man,0.014390962547622621,0.02993391244672239,8,greedy,0.0,"{""no"": 10}",no

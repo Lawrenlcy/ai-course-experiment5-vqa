@@ -1,0 +1,41 @@
+{
+  "model": {
+    "model_id": "Salesforce/blip-vqa-base",
+    "revision": "787b3d35d57e49572baabd22884b3d5a05acf072"
+  },
+  "n": 500,
+  "manifest_sha256": "587d7603225daaddacd67059315f3d4ef3d711c4a2401ba749796944e24788f7",
+  "image_hashes_sha256": "0449dffb9c9c67098ef739930b0c268de0fca805f69183a2a445af44e61157fc",
+  "seed": 42,
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "batch_size": 8,
+  "max_new_tokens": 20,
+  "warmup_batches_per_setting": 1,
+  "settings": {
+    "greedy": {
+      "beams": 1,
+      "image": "original"
+    },
+    "beam3": {
+      "beams": 3,
+      "image": "original"
+    },
+    "blank_image": {
+      "beams": 1,
+      "image": "uniform RGB 127; same original dimensions"
+    }
+  },
+  "evaluator_sha256": "1ae12926eea0e7652cb2be00016958a6bb4eec720625850bb7493d2a602e21c4",
+  "scope": "validation diagnostic with potential training overlap; no project training",
+  "code_sha256": {
+    "__init__.py": "661cd029667c445ad32248fbcfcec1d78e0323de5ef0b31f039c3c3435900ed8",
+    "__main__.py": "60142ebfc93c50fe58b9114f7082beaefa3c159b27a4b0b333f76046caf3231e",
+    "common.py": "8a2b12d2c45df8b64b738a54b1eaf5e3159819dee52ec55a45bb9049fb9c87b8",
+    "data.py": "f2085b13e9925a831c2fe9cf89cbf646a1a791b062da145873fcd6401610183d",
+    "evaluation.py": "4f3db7c84cd04e816845ecaefa7dd31d96fd0cf5db8137987f3f89520587d5e7",
+    "experiment.py": "eef88e4be0bcb8ef92d8e859759122ac3b2884e21766a3c578100a80cdb42809",
+    "report.py": "80206168036b68c85972a5c18a8505610142619741ec6ce8a90516630757f10b",
+    "ui.py": "cbeef05928cf401da0c22011de0dcd32126ce817f36b4ead0e1e8ce7eb2d8c84"
+  }
+}

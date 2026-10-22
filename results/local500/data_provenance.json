@@ -1,0 +1,17 @@
+{
+  "sources": {
+    "questions": {
+      "url": "https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Val_mscoco.zip",
+      "sha256": "e71f6c5c3e97a51d050f28243e262b28cd0c48d11a6b4632d769d30d3f93222a"
+    },
+    "annotations": {
+      "url": "https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Val_mscoco.zip",
+      "sha256": "0caae7c8d1dafd852727f5ac046bc1efca9b72026bd6ffa34fc489f3a7b3291e"
+    }
+  },
+  "n": 500,
+  "seed": 42,
+  "population": 214354,
+  "selection": "random.sample(sorted(annotations, question_id), n)",
+  "scope": "VQAv2 val2014 diagnostic; potential BLIP training overlap"
+}

@@ -1,0 +1,7 @@
+{
+  "split": "VQAv2 val2014",
+  "potential_training_overlap": true,
+  "project_finetuning": false,
+  "evidence": "https://github.com/salesforce/BLIP/blob/main/configs/vqa.yaml",
+  "note": "Official training configuration contains vqa_val. Exact checkpoint lineage was not independently established. No unseen-test generalization claim."
+}

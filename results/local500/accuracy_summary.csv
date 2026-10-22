@@ -1,0 +1,13 @@
+method,group,n,accuracy_percent
+beam3,overall,500,85.0
+beam3,yes/no,219,97.853881
+beam3,number,53,67.54717
+beam3,other,228,76.710526
+blank_image,overall,500,47.56
+blank_image,yes/no,219,67.534247
+blank_image,number,53,29.811321
+blank_image,other,228,32.5
+greedy,overall,500,85.76
+greedy,yes/no,219,98.03653
+greedy,number,53,67.54717
+greedy,other,228,78.201754

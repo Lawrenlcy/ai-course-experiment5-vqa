@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-22T10:56:19.130954+00:00",
+  "python": "3.11.9",
+  "os": "Windows-10-10.0.26200-SP0",
+  "torch": "2.8.0+cu128",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "packages": {
+    "transformers": "4.57.1",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "librosa": "0.11.0",
+    "pandas": "2.2.3",
+    "Pillow": "11.3.0"
+  }
+}

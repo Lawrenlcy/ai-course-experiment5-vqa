@@ -1,0 +1,6 @@
+{
+  "url": "https://raw.githubusercontent.com/GT-Vision-Lab/VQA/a013f0043c1e2cdc995922dfe257f7149aa9af06/PythonEvaluationTools/vqaEvaluation/vqaEval.py",
+  "revision": "a013f0043c1e2cdc995922dfe257f7149aa9af06",
+  "sha256_original": "f08edfcad5be0112500993e245c706b6cb928eadebe203f89f838e5e0d04bec8",
+  "modification": "Only two Python 2 print statements converted to Python 3."
+}

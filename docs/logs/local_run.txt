@@ -1,0 +1,48 @@
+
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 331.27it/s]
+`torch_dtype` is deprecated! Use `dtype` instead!
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+greedy 40 / 500
+greedy 80 / 500
+greedy 120 / 500
+greedy 160 / 500
+greedy 200 / 500
+greedy 240 / 500
+greedy 280 / 500
+greedy 320 / 500
+greedy 360 / 500
+greedy 400 / 500
+greedy 440 / 500
+greedy 480 / 500
+greedy 500 / 500
+greedy 85.76
+beam3 40 / 500
+beam3 80 / 500
+beam3 120 / 500
+beam3 160 / 500
+beam3 200 / 500
+beam3 240 / 500
+beam3 280 / 500
+beam3 320 / 500
+beam3 360 / 500
+beam3 400 / 500
+beam3 440 / 500
+beam3 480 / 500
+beam3 500 / 500
+beam3 85.0
+blank_image 40 / 500
+blank_image 80 / 500
+blank_image 120 / 500
+blank_image 160 / 500
+blank_image 200 / 500
+blank_image 240 / 500
+blank_image 280 / 500
+blank_image 320 / 500
+blank_image 360 / 500
+blank_image 400 / 500
+blank_image 440 / 500
+blank_image 480 / 500
+blank_image 500 / 500
+blank_image 47.56
+Complete: results\local500
